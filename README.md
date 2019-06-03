@@ -24,7 +24,6 @@
     <tr>
     <td align=center>
       本页面是固定网址页面，请收藏<br/>
-      https://git.io/ogate2<br/>
     </td>
   </tr>
   <tr>
