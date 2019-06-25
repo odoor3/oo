@@ -10,7 +10,7 @@
     </td>
   <tr>
     <td align=center>请尝试不同入口，进入动态网址<br/>
-      <a href="https://cbrwszfegtiyy.global.ssl.fastly.net/oo.aspx?key=bpzbsixnhyzy&from=ogHomed">入口</a><br/>
+      <a href="https://d1vjf30exz0oo1.cloudfront.net/oo.aspx?key=djngynnpgotvhgoi&from=ogHomed">入口</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
