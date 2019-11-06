@@ -15,25 +15,25 @@
     <td colspan="2" align="center">下载网门客户端，更快，更方便</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGatea.apk">网门安卓版</a></td>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oGate.zip">网门电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oGatea.apk">网门安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oGate.zip">网门电脑版</a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/oPipe.zip">环通电脑版</a></td>
+    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oPipe.zip">环通电脑版</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">使用海外浏览器，更好，更安全</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.apk">Chrome安卓版</a></td>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Chrome.zip">Chrome电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Chrome.apk">Chrome安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Chrome.zip">Chrome电脑版</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.apk">Firefox安卓版</a></td>
-    <td align="center"><a href="https://gitlab.com/ogate2/up/raw/master/_/Firefox.zip">Firefox电脑版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Firefox.apk">Firefox安卓版</a></td>
+    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Firefox.zip">Firefox电脑版</a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://gitlab.com/ogate2/up/raw/master/_/oGate640.jpg"/></td>
+    <td colspan="2" align="center"><img src="https://gitlab.com/ogate2/oo/raw/master/oGate640.jpg"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
