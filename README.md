@@ -9,7 +9,7 @@
     <td colspan="2" align="center">请尝试不同入口，进入动态网址<br/>微信如提示停止访问该网页，须<br/>先点击右上角，选择浏览器打开</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://dtzvpsdqfhit.xvery.pw/oo.aspx?key=sxqfogafymrdxobm&from=ogHomed">网页版入口</a></td>
+    <td colspan="2" align="center"><a href="https://xbike.casa/oo.aspx?key=tbnzwzfeilzfesaw&from=ogHomed">网页版入口</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">下载网门客户端，更快，更方便</td>
