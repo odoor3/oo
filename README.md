@@ -9,31 +9,31 @@
     <td colspan="2" align="center">请尝试不同入口，进入动态网址<br/>微信如提示停止访问该网页，须<br/>先点击右上角，选择浏览器打开</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://xbike.casa/oo.aspx?key=tbnzwzfeilzfesaw&from=ogHomed">网页版入口</a></td>
+    <td colspan="2" align="center"><a href="https://xblue.casa/oo.aspx?key=sgbqkopuejmcoyak&from=ogHomed">网页版入口</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">下载网门客户端，更快，更方便</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oGatea.apk">网门安卓版</a></td>
-    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oGate.zip">网门电脑版</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oGatea.apk">网门安卓版</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oGate.zip">网门电脑版</a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/oPipe.zip">环通电脑版</a></td>
+    <td colspan="2" align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">使用海外浏览器，更好，更安全</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Chrome.apk">Chrome安卓版</a></td>
-    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Chrome.zip">Chrome电脑版</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/Chrome.apk">Chrome安卓版</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/Chrome.zip">Chrome电脑版</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Firefox.apk">Firefox安卓版</a></td>
+    <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/Firefox.apk">Firefox安卓版</a></td>
     <td align="center"><a href="https://gitlab.com/ogate2/oo/raw/master/Firefox.zip">Firefox电脑版</a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://gitlab.com/ogate2/oo/raw/master/oGate640.jpg"/></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/opipe/up/master/oGate640.jpg"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
