@@ -3,13 +3,10 @@
     <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/opipe/up/oGate65.jpg"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center">本页面是固定网址页面，请收藏</td>
-  <tr>
-  <tr>
     <td colspan="2" align="center">微信如提示停止访问该网页，须<br/>先点击右上角，选择浏览器打开</td>
   <tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://gitcdn.xyz/cdn/otiny/up/master/show004.htm">网页精简版</a></td>
+    <td colspan="2" align="center"><a href="https://gitcdn.xyz/cdn/otiny/up/master/show004.htm">网页精简版</a><br/>进入后，可以点击完整动态网址</td>
   </tr>
   <tr>
     <td colspan="2" align="center">下载多种客户端，更快，更方便</td>
