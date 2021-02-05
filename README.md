@@ -12,8 +12,8 @@
     <td colspan="3" align="center">下载多种客户端，更快，更方便</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea.apk">环门安卓版</a></td>
-    <td align="center"><a href="https://x.co/odisk">环门苹果版</a></td>
+    <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGatea047a.apk">环门安卓版</a></td>
+    <td align="center"><a href="https://testflight.apple.com/join/x1bytm91">环门苹果版</a></td>
     <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门电脑版</a></td>
   </tr>
   <tr>
