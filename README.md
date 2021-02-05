@@ -17,7 +17,7 @@
     <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip">环门电脑版</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipe.apk">环通安卓版</a></td>
+    <td align="center"><a href="https://cdn.jsdelivr.net/gh/opipe/up/oPipe005.apk">环通安卓版</a></td>
     <td align="center"></td>
     <td align="center"><a href="https://raw.githubusercontent.com/opipe/up/master/oPipe.zip">环通电脑版</a></td>
   </tr>
