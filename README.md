@@ -12,7 +12,7 @@
     <td colspan="3" align="center">下載多種客戶端，更快，更方便</td>
   <tr>
   <tr>
-    <td align="center"><a href="https://cdn.jsdelivr.net/gh/ofile/up/oGatea054.apk">環門安卓版</a></td>
+    <td align="center"><a href="https://cdn.jsdelivr.net/gh/ofile/up/oGatea054a.apk">環門安卓版</a></td>
     <td align="center"><a href="https://testflight.apple.com/join/x1bytm91">環門蘋果版</a></td>
     <td align="center"><a href="https://cdn.jsdelivr.net/gh/ofile/up/oGate.zip">環門電腦版</a></td>
   </tr>
